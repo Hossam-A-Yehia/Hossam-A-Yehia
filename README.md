@@ -11,9 +11,9 @@
   <a href="https://www.linkedin.com/in/hossam-yehia-83a623243/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="tel:+201206001955">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
+<a href="https://wa.me/201206001955" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 </p>
 
 **📍 Cairo, Egypt** | **🚀 4+ Years Experience** | **💼 Open to Opportunities**
@@ -128,8 +128,8 @@ Faculty of Computers and Information, Tanta University
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yehia/Hossam-A-Yehia&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehia/Hossam-A-Yehia&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hossam-A-Yehia&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-A-Yehia&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </div>
 
 ---
