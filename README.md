@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hossam Ahmed Yehia
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Hossam+Ahmed+Yehia;Frontend+Developer;React.js+%7C+Next.js+Specialist;Building+Amazing+Web+Apps" alt="Typing SVG" />
 
 ### Frontend Developer | React.js & Next.js Specialist
 
@@ -71,6 +71,12 @@ Key contributor to **Craftscene**, a B2B platform connecting suppliers, designer
 
 <div align="center">
 
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -122,8 +128,8 @@ Faculty of Computers and Information, Tanta University
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hossam-A-Yehia&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-A-Yehia&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </div>
 
 ---
@@ -133,6 +139,8 @@ Faculty of Computers and Information, Tanta University
 I'm always excited to collaborate on innovative projects or discuss new opportunities.
 
 <div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Open+for+Freelance+Projects;Full-time+Opportunities;Technical+Consulting;Open+Source+Collaboration" alt="Typing SVG" /></a>
 
 **💬 Open for:** Freelance Projects | Full-time Roles | Technical Consulting | Open Source Collaboration
 
@@ -145,8 +153,12 @@ I'm always excited to collaborate on innovative projects or discuss new opportun
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
 *"First, solve the problem. Then, write the code."* — John Johnson
 
 ⭐ **If you find my work interesting, consider starring my repositories!**
+
+![](https://komarev.com/ghpvc/?username=Hossam-A-Yehia&style=for-the-badge&color=brightgreen)
 
 </div>
