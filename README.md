@@ -1,26 +1,27 @@
-# 👋 Hi, I'm Hossam Ahmed Yehia
+<!-- Animated Header -->
+<h1 align="center">
+  👋 Hey there, I'm <span style="color:#61dafb;">Hossam Ahmed Yehia</span>  
+</h1>
 
-### Frontend Developer | React.js | Next.js
+<h3 align="center">
+  💻 Frontend Developer | React.js | Next.js
+</h3>
 
-🚀 Passionate Frontend Developer with **4+ years of experience** building modern, scalable, and high-performance web applications.  
-I focus on crafting intuitive user experiences, writing clean and maintainable code, and delivering solutions that scale with business needs.
-
-📍 **Location:** Cairo, Egypt  
-📧 **Email:** [hossamyehya477@gmail.com](mailto:hossamyehya477@gmail.com)  
-📞 **Phone:** +201206001955  
-🔗 **LinkedIn:** [linkedin.com/in/hossamyehia](https://www.linkedin.com/in/hossam-yehia-83a623243/)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Building+Modern+Scalable+Web+Applications;Passionate+About+Clean+UI+%26+Performance" alt="Typing Animation" />
+</p>
 
 ---
 
-## 🧠 About Me
+### 🚀 About Me
 
-I’m a **Frontend Developer** currently working at **Revamp Consulting**, specializing in building and customizing **Shopify e-commerce platforms** using React.js and Next.js.  
-Previously, I worked at **Integrity Technologies (UAE)**, contributing to large-scale web platforms like **Craftscene**, connecting suppliers, designers, and craftsmen.
+Frontend Developer with **4+ years of experience** building modern, scalable, and high-performance web applications.  
+I focus on crafting intuitive user experiences, writing clean, maintainable code, and delivering performant, scalable solutions.
 
-🎯 I’m passionate about:
-- Creating clean, scalable UI architectures  
-- Optimizing web performance  
-- Building seamless, responsive user interfaces  
+📍 **Location:** Cairo, Egypt  
+📧 **Email:** [hossamyehya477@gmail.com](mailto:hossamyehya477@gmail.com)  
+📞 **Phone:** +20 120 600 1955  
+🔗 **LinkedIn:** [linkedin.com/in/hossamyehia](https://www.linkedin.com/in/hossam-yehia-83a623243/)  
 
 ---
 
@@ -46,12 +47,16 @@ Previously, I worked at **Integrity Technologies (UAE)**, contributing to large-
 
 ## 🎓 Education
 
-**Bachelor’s Degree in Information Systems**  
+🎓 **Bachelor’s Degree in Information Systems**  
 Faculty of Computers and Information – Tanta University (2019 – 2023)
 
 ---
 
 ## 🧰 Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,html,css,tailwind,bootstrap,mui,nodejs,express,mongodb,jest,redux,git,github,aws,shopify" />
+</p>
 
 | Category | Technologies |
 |-----------|---------------|
@@ -65,17 +70,38 @@ Faculty of Computers and Information – Tanta University (2019 – 2023)
 ---
 
 ## 🌱 Currently Exploring
-- Next.js 15 features and performance optimization  
-- Advanced Shopify App Development  
-- AI integration in frontend workflows  
+- ⚡ Next.js 15 performance optimization  
+- 🛍️ Advanced Shopify App Development  
+- 🤖 AI integration in frontend workflows  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hossamyehia&show_icons=true&theme=react" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hossamyehia&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossamyehia&theme=react-dark" alt="Activity Graph" />
+</p>
 
 ---
 
 ## 📫 Let’s Connect!
-I’m always open to collaborating on exciting projects or discussing new opportunities.  
-💌 [hossamyehya477@gmail.com](mailto:hossamyehya477@gmail.com)
+
+<p align="center">
+  <a href="mailto:hossamyehya477@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hossam-yehia-83a623243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/hossamyehia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 ⭐ **“Code is like humor. When you have to explain it, it’s bad.”**  
 — Cory House
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Developer GIF"/>
+</p>
